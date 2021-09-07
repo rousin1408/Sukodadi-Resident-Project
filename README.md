@@ -1,2 +1,2 @@
 # Sukodadi-Resident-Project 
-![Screenshot (82)](https://user-images.githubusercontent.com/73393827/132309520-a2db0c6e-0839-4530-af12-12cd108581b2.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/73393827/132309945-62938a32-46af-4bb2-a26e-eaf78f80212d.png)
