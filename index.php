@@ -342,7 +342,7 @@ function topFunction() {
             <li>
                 <h3>Contact Us</h3>
                 <br>
-                <a href="mailto:mitra_griya@yahoo.com" style="text-decoration: none;"><i class="fas fa-envelope"></i> <b>mitra_griya@yahoo.com</b></a><br>
+                <a href="mailto:mitra_griya@yahoo.com" style="text-decoration: none;"><i class="fas fa-envelope"></i> <b>Mitra_griyartha@yahoo.com</b></a><br>
                 <a href="https://www.facebook.com/sukodadi.residence?hc_ref=ARRxlzqxpfVLopMlhOW0VpK2YOyqEqPonUy0dYSyKg8BuskC25qSTQWZ9Cs5N_fNMG4&ref=nf_target" target=_blank style="text-decoration: none;"><i class="fab fa-facebook"></i> <b>Sukodadi Residence</b> </a><br>
                  <a href="https://wa.me/+62811362895" target=_blank style="text-decoration: none;"><i class="fab fa-whatsapp"></i> <b>Harijani &emsp;+62811362895</b></a> <br>
                  <a href="https://wa.me/+6282227774179" target=_blank style="text-decoration: none;"><i class="fab fa-whatsapp"></i> <b>Hadi S&emsp;+6282227774179</b></a><br>
